@@ -4,7 +4,7 @@ Dev setup and tools
 
 ### Requisitos
 
-1. [Brew - Gerenciador de pacotes](https://brew.sh/index_pt-br)
+1. [Brew - Gerenciador de pacotes do MacoS](https://brew.sh/index_pt-br)
 
 2. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
@@ -16,7 +16,7 @@ Dev setup and tools
 
 
 
-
+ 
 
 
 #### Softwares
