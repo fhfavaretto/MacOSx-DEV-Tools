@@ -73,7 +73,7 @@ Any desk ´brew cask install anydesk´
 
 1. [ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 
-2. [Oh-My-Zsh](https://ohmyz.sh/) / [Git-PLugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) | [Node-Plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/node) | [vscode-Plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode)  |  [Docker](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker)  
+2. [Oh-My-Zsh](https://ohmyz.sh/) /  
 
 3. [Dracula](https://draculatheme.com/terminal/)
 
