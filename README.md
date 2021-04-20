@@ -44,11 +44,30 @@ Any desk ´brew cask install anydesk´
 
 
 #### Brew
+* brew install --cask microsoft-edge
 
- ffmpeg ´brew install ffmpeg´
+* brew install --cask visual-studio-code
 
- node ´brew install node´
+* brew install --cask sublime-text
 
+* brew install --cask tableplus
+
+* brew install --cask whatsapp
+
+* brew install --cask anydesk
+
+* brew install --cask microsoft-teams
+
+* brew install --cask rocket-chat
+
+* brew install --cask discord
+
+* brew install --cask yt-music
+
+* ffmpeg ´brew install ffmpeg´
+
+* node ´brew install node´
+ 
 
 
 #### Ajustes visuais e Facilidades
@@ -69,6 +88,7 @@ Any desk ´brew cask install anydesk´
 #### Extensoes para Vsocode
 
 * material icon design
+* all autocomplete
 * live server
 * portugues brasil
 * pretier 
@@ -78,14 +98,14 @@ Any desk ´brew cask install anydesk´
 * dotenv
 * advpl
 * totvs developer studio
+* Protheus Dev Docs
 * tabnine
-
+* Remote ssh microsoft
 
 ## App store
 
-* microsoft remote desktop
 * Sonicwall Mobile Connect (firewall.alsf.org.br:4433)
-* Monit
+* Monit (Não Funciona mais depois da mudança de arquitetura)
 * Manget
   
 
@@ -93,5 +113,5 @@ Any desk ´brew cask install anydesk´
 
 
 
-
-
+# VPN
+ M1   https://tunnelblick.net/cKextsInstallation.html#m1-big-sur
