@@ -8,11 +8,10 @@ Dev setup and tools
 
 2. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-3. Xcode ´xcode-select --install´ 
-   
+3. [Xcode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
+ **Necessario verificar**  
 4. [Python/PIP](https://python.org.br/instalacao-mac/)
-
-5. [JDK Java 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+ **Necessario verificar**
 6. [JDK Java 11 (Fluig)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
 
