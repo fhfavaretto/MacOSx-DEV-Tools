@@ -1,5 +1,5 @@
 # MacOSx-DEV-Tools
-intalando programas
+intalando programas para o macos m1
 
 
 ### Requisitos
