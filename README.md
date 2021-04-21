@@ -1,5 +1,5 @@
 # MacOSx-DEV-Tools
-Dev setup and tools
+intalando programas
 
 
 ### Requisitos
